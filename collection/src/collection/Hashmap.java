@@ -36,6 +36,8 @@ public class Hashmap {
 		}
 		
 		
+		if(map.containsKey("0"))
+			System.out.println(map.get("0"));
 		
 		
 		
